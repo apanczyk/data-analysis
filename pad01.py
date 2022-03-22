@@ -1,3 +1,0 @@
-
-def asd():
-    print("xd")
