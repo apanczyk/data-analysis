@@ -42,7 +42,7 @@ DUPLO®;Fire Helicopter & Police Car;['45,99'];1½+;14;10957
 DUPLO®;Unicorn;['45,99'];1½+;8;10953
 DUPLO®;Number Train - Learn To Count;['84,99'];1½+;23;10954
 DUPLO®;Bath Time Fun: Floating Red Panda;['39,99'];1½+;5;10964
-Other;LEGO® Wall Hanger Rack;['79,99'];3+;5006230;None
+INVALID Other;LEGO® Wall Hanger Rack;['79,99'];3+;1;5006230
 DUPLO®;Farm Tractor & Animal Care;['84,99'];2+;27;10950
 DUPLO®;Police Motorcycle;['45,99'];2+;5;10967
 DUPLO®;Animal Train;['84,99'];1½+;15;10955
@@ -50,7 +50,7 @@ DUPLO®;Garbage Truck and Recycling;['84,99'];2+;19;10945
 DUPLO®;Truck & Tracked Excavator;['84,99'];2+;20;10931
 DUPLO®;Bath Time Fun: Floating Animal Train;['79,99'];1½+;14;10965
 DUPLO®;Heart Box;['84,99'];1½+;80;10909
-Other;LEGO® Picture Frame;['89,99'];3+;5006215;None
+INVALID Other;LEGO® Picture Frame;['89,99'];3+;1;5006215
 DUPLO®;Santa's Gingerbread House;['149,99'];2+;50;10976
 DUPLO®;Doctor Visit;['84,99'];2+;34;10968
 DUPLO®;LEGO® DUPLO® Large Green Building Plate;['64,99'];1½+;1;2304
@@ -127,7 +127,7 @@ City;Police Helicopter Chase;['129,99'];5+;212;60243
 Classic;Bricks and Functions;['129,99'];5+;500;11019
 City;Horse Transporter;['129,99'];5+;196;60327
 City;Road Plates;['89,99'];5+;112;60304
-Other;LEGO® Picture Frame;['89,99'];3+;5006215;None
+INVALID Other;LEGO® Picture Frame;['89,99'];3+;1;5006215
 City;Cement Mixer Truck;['84,99'];4+;85;60325
 Friends;Pet Clinic;['84,99'];4+;111;41695
 City;Fire Ladder Truck;['84,99'];4+;88;60280
@@ -149,7 +149,7 @@ Disney™;Anna’s Castle Courtyard;['45,99'];5+;74;43198
 City;Tractor;['84,99'];5+;148;60287
 Classic;Creative Monsters;['45,99'];4+;140;11017
 Disney™;Elsa and the Nokk’s Ice Stable;['69,99'];4+;53;43209
-Other;LEGO® Wall Hanger Rack;['79,99'];3+;5006230;None
+INVALID Other;LEGO® Wall Hanger Rack;['79,99'];3+;1;5006230
 Friends;Forest Waterfall;['45,99'];5+;93;41677
 Friends;Pet Clinic Ambulance;['45,99'];4+;54;41694
 City;Picnic in the park;['64,99'];5+;147;60326
@@ -253,7 +253,7 @@ Minecraft®;The Bakery;['99,99'];8+;154;21184
 Jurassic World™;Pteranodon Chase;['89,99'];4+;94;76943
 Friends;Ice-Cream Truck;['84,99'];4+;84;41715
 NINJAGO®;Jay's Golden Dragon Motorbike;['84,99'];7+;137;71768
-None;Halloween Owl;['69,99'];8+;228;40497
+Other;Halloween Owl;['69,99'];8+;228;40497
 Friends;Heartlake City Pizzeria;['69,99'];5+;144;41705
 BrickHeadz;Budgie;['69,99'];8+;261;40443
 BrickHeadz;Shorthair Cats;['69,99'];8+;250;40441
@@ -279,7 +279,7 @@ LEGO® Super Mario™;Adventures with Mario Starter Course;['259,99'];6+;231;713
 DOTS;Extra DOTS - Series 3;['17,99'];6+;107;41921
 LEGO® Super Mario™;Adventures with Luigi Starter Course;['259,99'];6+;280;71387
 LEGO® Education;LEGO® Education SPIKE™ Essential Set;['1439,99'];6+;449;45345
-None;Yellow Taxi;['44,99'];7+;124;40468
+Other;Yellow Taxi;['44,99'];7+;124;40468
 City;Bathtub Stunt Bike;['34,99'];5+;14;60333
 Technic;Getaway Truck;['89,99'];7+;128;42090
 DOTS;Extra DOTS - Series 5;['17,99'];6+;120;41932
@@ -294,12 +294,12 @@ Art;Art Project - Create Together;['569,99'];7+;4138;21226
 City;Fire Brigade;['469,99'];7+;766;60321
 Friends;Main Street Building;['699,99'];8+;1682;41704
 LEGO® Education;LEGO® Education My XL World;['1289,99'];2-6;480;45028
-LEGO® Super Mario™;The Beach Blast Bundle;['679,97'];6+;1020;None
+LEGO® Super Mario™;The Beach Blast Bundle;['679,97'];6+;None;5007338
 City;Rocket Launch Centre;['649,99'];7+;1010;60351
 City;Lunar Research Base;['469,99'];7+;786;60350
-LEGO® Super Mario™;Luigi’s Mansion™ Madness Bundle;['949,96'];6+;1425;None
+LEGO® Super Mario™;Luigi’s Mansion™ Madness Bundle;['949,96'];6+;None;5007337
 LEGO® Super Mario™;Bowser’s Airship Expansion Set;['479,99'];8+;1152;71391
-None;Lunar New Year Ice Festival;['469,99'];8+;1519;80109
+Other;Lunar New Year Ice Festival;['469,99'];8+;1519;80109
 LEGO® Education;LEGO® Technic™ Small Hub;['999,99'];6+;2;45609
 Marvel;LEGO® Marvel Rise of the Domo;['479,99'];8+;1040;76156
 City;Hospital;['469,99'];7+;816;60330
@@ -331,7 +331,7 @@ Minecraft®;The Illager Raid;['329,99'];8+;562;21160
 Friends;Vacation Beach House;['329,99'];7+;686;41709
 Friends;Pet Day-Care Centre;['299,99'];7+;593;41718
 Friends;Canal Houseboat;['349,99'];7+;737;41702
-None;Lunar New Year Traditions;['329,99'];8+;1066;80108
+Other;Lunar New Year Traditions;['329,99'];8+;1066;80108
 Friends;Heartlake City School;['329,99'];6+;605;41682
 Friends;Forest Horseback Riding Center;['329,99'];7+;511;41683
 Monkie Kid™;Monkie Kid's Lion Guardian;['329,99'];8+;774;80021
@@ -507,7 +507,7 @@ Creator 3-in-1;Race Car Transporter;['109,99'];7+;328;31113
 Minecraft®;The Guardian Battle;['99,99'];8+;255;21180
 Creator 3-in-1;High-Speed Train;['89,99'];7+;284;40518
 Harry Potter™;Hogwarts™: Polyjuice Potion Mistake;['89,99'];7+;217;76386
-Other;LEGO® Picture Frame;['89,99'];3+;5006215;None
+INVALID Other;LEGO® Picture Frame;['89,99'];3+;1;5006215
 DOTS;Lots of DOTS – Lettering;['89,99'];6+;722;41950
 DOTS;Lots of DOTS;['89,99'];6+;1040;41935
 Disney™;Mickey Mouse & Minnie Mouse's Space Rocket;['89,99'];4+;88;10774
@@ -562,7 +562,7 @@ Minecraft®;The Mushroom House;['89,99'];8+;272;21179
 Friends;Olivia's Electric Car;['69,99'];6+;183;41443
 Star Wars™;Brick Sketches™ BB-8™;['69,99', '41,99'];8+;171;40431
 Disney™;Elsa and the Nokk’s Ice Stable;['69,99'];4+;53;43209
-Other;LEGO® Wall Hanger Rack;['79,99'];3+;5006230;None
+INVALID Other;LEGO® Wall Hanger Rack;['79,99'];3+;1;5006230
 Creator 3-in-1;Fantasy Forest Creatures;['69,99'];7+;175;31125
 Creator 3-in-1;Off-road Buggy;['69,99'];7+;160;31123
 Spider-Man;Spider-Man versus Venom and Iron Venom;['69,99'];6+;63;40454
@@ -650,11 +650,11 @@ City;Wheelie Stunt Bike;['35,99'];5+;14;60296
 LEGO® Super Mario™;Fuzzy Flippers Expansion Set;['119,99'];6+;154;71405
 City;Fire Stunt Bike;['35,99'];5+;11;60311
 Star Wars™;AT-ST™ Raider;['269,99'];8+;540;75254
-None;Tuk Tuk;['44,99'];7+;155;40469
+Other;Tuk Tuk;['44,99'];7+;155;40469
 Other;Trophy;['59,99'];8+;200;40385
 DC;LEGO® DC Batman™ Batmobile™ Tumbler: Scarecrow™ Showdown;['189,99'];8+;422;76239
 City;Passenger Train;['599,99'];6-12;677;60197
-Disney™;Disney Princess Ultimate Celebration Bundle;['379,99'];6+;570;None
+Disney™;Disney Princess Ultimate Celebration Bundle;['379,99'];6+;None;5007204
 LEGO® Super Mario™;Yoshi’s Gift House Expansion Set;['159,99'];6+;246;71406
 Speed Champions;Ford GT Heritage Edition and Bronco R;['229,99'];8+;660;76905
 Creator 3-in-1;Crocodile;['139,99'];7+;454;31121
@@ -669,17 +669,17 @@ Other;Tulips;['44,99'];8+;111;40461
 City;Train Station;['359,99'];7+;907;60335
 Minifigures;Series 22;['16,99'];5+;9;71032
 Star Wars™;Obi-Wan's Hut;['139,99'];7+;200;75270
-DOTS;Gel Pen 6 Pack;['69,99'];6+;105;None
+INVALID DOTS;Gel Pen 6 Pack;['69,99'];6+;1;5006275
 Xtra;LEGO® xtra Sea Accessories;['17,00', '11,90'];6+;24;40341
 Star Wars™;Clone Trooper™ Command Station;['69,99'];6+;66;40558
 Other;Christmas Ornament Santa;['34,99'];6+;44;854037
 VIDIYO™;Bandmates;['19,99', '13,99'];7+;12;43108
 Friends;Party Boat;['379,99'];7+;640;41433
-None;Valentine Lovebirds;['59,99'];8+;298;40522
+Other;Valentine Lovebirds;['59,99'];8+;298;40522
 Minecraft®;The Pirate Ship Adventure;['229,99'];8+;386;21152
 Marvel;Iron Man Hall of Armor;['279,99'];7+;524;76125
 City;Deep Space Rocket and Launch Control;['449,99'];7+;837;60228
-None;Easter Rabbits Display;['59,99'];8+;288;40523
+Other;Easter Rabbits Display;['59,99'];8+;288;40523
 Star Wars™;Mandalorian™ Battle Pack;['79,99'];6+;102;75267
 NINJAGO®;Lloyd's Hydro Mech;['89,99'];7+;228;71750
 Spider-Man;Spider-Man vs. Mysterio’s Drone Attack;['89,99'];4+;73;76184
@@ -757,7 +757,7 @@ Disney and Pixar’s Lightyear;Zurg Battle;['139,99'];7+;261;76831
 Creator 3-in-1;Sunken Treasure Mission;['139,99'];8+;522;31130
 DOTS;Adhesive Patches Mega Pack;['129,99'];6+;486;41957
 City;Mars Spacecraft Exploration Missions;['129,99'];6+;298;60354
-None;Halloween Owl;['69,99'];8+;228;40497
+Other;Halloween Owl;['69,99'];8+;228;40497
 Harry Potter™;Hogwarts™ Carriage and Thestrals;['89,99'];7+;121;76400
 BrickHeadz;Budgie;['69,99'];8+;261;40443
 Friends;Recycling Truck;['84,99'];6+;259;41712
@@ -784,7 +784,7 @@ LEGO® Super Mario™;Adventures with Mario Starter Course;['259,99'];6+;231;713
 City;Electric Scooters & Charging Dock;['59,99'];6+;50;40526
 DOTS;Extra DOTS - Series 3;['17,99'];6+;107;41921
 LEGO® Super Mario™;Adventures with Luigi Starter Course;['259,99'];6+;280;71387
-None;Yellow Taxi;['44,99'];7+;124;40468
+Other;Yellow Taxi;['44,99'];7+;124;40468
 DOTS;Extra DOTS - Series 5;['17,99'];6+;120;41932
 Star Wars™;Ahsoka Tano™;['44,99'];10+;164;40539
 BrickHeadz;Lady Liberty;['44,99'];10+;153;40367
@@ -798,16 +798,16 @@ Star Wars™;Imperial Light Cruiser™;['749,99'];10+;1336;75315
 Harry Potter™;Hogwarts™ Chamber of Secrets;['669,99'];9+;1176;76389
 Star Wars™;AT-AT™;['749,99'];10+;1267;75288
 Friends;Main Street Building;['699,99'];8+;1682;41704
-LEGO® Super Mario™;The Beach Blast Bundle;['679,97'];6+;1020;None
+LEGO® Super Mario™;The Beach Blast Bundle;['679,97'];6+;None;5007338
 City;Rocket Launch Centre;['649,99'];7+;1010;60351
-LEGO® Super Mario™;Luigi’s Mansion™ Madness Bundle;['949,96'];6+;1425;None
+LEGO® Super Mario™;Luigi’s Mansion™ Madness Bundle;['949,96'];6+;None;5007337
 LEGO® Education;LEGO® Education SPIKE™ Essential Set;['1439,99'];6+;449;45345
 LEGO® Education;LEGO® Technic™ Small Hub;['999,99'];6+;2;45609
 NINJAGO®;Hydro Bounty;['649,99'];9+;1159;71756
 City;Cargo Train;['879,99'];6-12;1226;60198
 BOOST;BOOST Creative Toolbox;['799,99'];7-12;847;17101
 Star Wars™;Millennium Falcon™;['749,99'];9+;1353;75257
-LEGO® Super Mario™;The Ultimate Bundle;['1319,95'];10+;1980;None
+LEGO® Super Mario™;The Ultimate Bundle;['1319,95'];10+;None;5007062
 Monkie Kid™;The Legendary Flower Fruit Mountain;['799,99'];10+;1949;80024
 Powered UP;Large Hub;['1149,99'];6+;2;88016
 Technic;Porsche 911 RSR;['749,99'];10+;1580;42096
@@ -826,7 +826,7 @@ Harry Potter™;Hogwarts™ Astronomy Tower;['479,99'];9+;971;75969
 Star Wars™;Yoda™;['569,99'];10+;1771;75255
 Star Wars™;Boba Fett's Throne Room;['479,99'];9+;732;75326
 Technic;THE BATMAN - BATMOBILE™;['479,99'];10+;1360;42127
-LEGO® Super Mario™;The Team-Up Bundle;['499,98'];10+;750;None
+LEGO® Super Mario™;The Team-Up Bundle;['499,98'];10+;None;5007060
 Star Wars™;The Razor Crest™;['629,99'];10+;1023;75292
 Creator 3-in-1;Pirate Ship;['549,99'];9+;1264;31109
 Friends;Heartlake City Grand Hotel;['469,99'];8+;1308;41684
@@ -837,7 +837,7 @@ City;Lunar Research Base;['469,99'];7+;786;60350
 NINJAGO®;Ninja Dojo Temple;['469,99'];8+;1394;71767
 Monkie Kid™;The Bone Demon;['469,99'];9+;1375;80028
 City;Stunt Show Arena;['469,99'];6+;668;60295
-None;Lunar New Year Ice Festival;['469,99'];8+;1519;80109
+Other;Lunar New Year Ice Festival;['469,99'];8+;1519;80109
 Friends;Magical Funfair Roller Coaster;['469,99'];8+;974;41685
 Creator 3-in-1;Medieval Castle;['469,99'];9+;1426;31120
 City;Hospital;['469,99'];7+;816;60330
@@ -868,7 +868,7 @@ Powered UP;Move Hub;['369,99'];7+;1;88006
 Marvel;LEGO® Marvel The Eternals In Arishem’s Shadow;['329,99'];7+;493;76155
 Classic;Bricks Bricks Plates;['329,99'];4-99;1504;11717
 Friends;Canal Houseboat;['349,99'];7+;737;41702
-None;Lunar New Year Traditions;['329,99'];8+;1066;80108
+Other;Lunar New Year Traditions;['329,99'];8+;1066;80108
 Technic;All-Terrain Vehicle;['349,99'];10+;764;42139
 Friends;Forest Horseback Riding Center;['329,99'];7+;511;41683
 Friends;Heartlake City School;['329,99'];6+;605;41682
@@ -1123,7 +1123,7 @@ LEGO® Super Mario™;Character Packs - Series 5;['26,99'];6+;47;71410
 Disney™;Ultimate Adventure Castle;['479,99'];6+;698;43205
 Creator 3-in-1;Vespa;['44,99'];9+;118;40517
 Star Wars™;The Justifier™;['799,99'];9+;1022;75323
-Star Wars™;AT-TE™ Walker;['669,99'];9+;1005;None
+Star Wars™;AT-TE™ Walker;['669,99'];9+;1082;75337
 VIDIYO™;Bandmates;['19,99', '13,99'];7+;11;43101
 LEGO® Super Mario™;Adventures with Peach Starter Course;['259,99'];6+;354;71403
 Minecraft®;The Skeleton Dungeon;['139,99'];8+;364;21189
@@ -1135,7 +1135,7 @@ Minecraft®;The Abandoned Village;['239,99'];8+;422;21190
 LEGO® Super Mario™;Goomba’s Shoe Expansion Set;['45,99'];6+;76;71404
 LEGO® Super Mario™;Fuzzy Flippers Expansion Set;['119,99'];6+;154;71405
 Xtra;Water Tape;['39,99'];6+;23;854065
-None;Tuk Tuk;['44,99'];7+;155;40469
+Other;Tuk Tuk;['44,99'];7+;155;40469
 Other;Santa's Sleigh;['179,99'];9+;343;40499
 BrickHeadz;Scrooge McDuck, Huey, Dewey & Louie;['119,99'];10+;340;40477
 City;Passenger Train;['599,99'];6-12;677;60197
@@ -1152,7 +1152,7 @@ BrickHeadz;Harry, Hermione, Ron & Hagrid™;['119,99'];10+;466;40495
 Other;Christmas Wreath 2-in-1;['159,99'];9+;510;40426
 Disney™;Donald Duck;['44,99'];10+;90;40377
 City;Train Station;['359,99'];7+;907;60335
-Disney™;Disney Princess Ultimate Celebration Bundle;['379,99'];6+;570;None
+Disney™;Disney Princess Ultimate Celebration Bundle;['379,99'];6+;None;5007204
 Star Wars™;AT-ST™ Raider;['269,99'];8+;540;75254
 DC;LEGO® DC Batman™ Batmobile™ Tumbler: Scarecrow™ Showdown;['189,99'];8+;422;76239
 Monkie Kid™;The City of Lanterns;['599,99'];9+;2187;80036
@@ -1161,18 +1161,18 @@ NINJAGO®;Lloyd's Hydro Mech;['89,99'];7+;228;71750
 Star Wars™;Clone Trooper™ Command Station;['69,99'];6+;66;40558
 Other;Christmas Ornament Santa;['34,99'];6+;44;854037
 VIDIYO™;Bandmates;['19,99', '13,99'];7+;12;43108
-LEGO® Super Mario™;The Creative Bundle;['579,97'];10+;870;None
+LEGO® Super Mario™;The Creative Bundle;['579,97'];10+;None;5007061
 Speed Champions;Ford GT Heritage Edition and Bronco R;['229,99'];8+;660;76905
 Creator 3-in-1;Crocodile;['139,99'];7+;454;31121
 Star Wars™;The Armorer’s Mandalorian™ Forge;['139,99'];8+;258;75319
 Minions;Unstoppable Bike Chase;['99,99'];6+;136;75549
-None;Valentine Lovebirds;['59,99'];8+;298;40522
-None;Easter Rabbits Display;['59,99'];8+;288;40523
+Other;Valentine Lovebirds;['59,99'];8+;298;40522
+Other;Easter Rabbits Display;['59,99'];8+;288;40523
 Monkie Kid™;Red Son's Inferno Jet;['139,99'];7+;299;80019
 Powered UP;Hub;['229,99'];7+;1;88009
 Creator 3-in-1;Space Shuttle Adventure;['229,99'];8+;486;31117
 Star Wars™;Obi-Wan's Hut;['139,99'];7+;200;75270
-DOTS;Gel Pen 6 Pack;['69,99'];6+;105;None
+DOTS;Gel Pen 6 Pack;['69,99'];6+;None;5006275
 Xtra;LEGO® xtra Sea Accessories;['17,00', '11,90'];6+;24;40341
 Friends;Party Boat;['379,99'];7+;640;41433
 Star Wars™;Poe Dameron's X-wing Fighter™;['469,99'];9+;761;75273
@@ -1214,7 +1214,7 @@ Technic;Heavy-duty Tow Truck;['799,99'];11+;2017;42128
 Marvel;The Guardians’ Ship;['719,99'];14+;1901;76193
 Technic;6x6 Volvo Articulated Hauler;['1249,99'];11+;2193;42114
 Ideas;LEGO® NASA Apollo Saturn V;['569,99'];14+;1969;92176
-LEGO® Super Mario™;The Ultimate Bundle;['1319,95'];10+;1980;None
+LEGO® Super Mario™;The Ultimate Bundle;['1319,95'];10+;None;5007062
 Monkie Kid™;The Legendary Flower Fruit Mountain;['799,99'];10+;1949;80024
 Disney™;Mini Disney Castle;['159,99'];12+;567;40478
 Star Wars™;The Razor Crest™;['629,99'];10+;1023;75292
@@ -1237,7 +1237,7 @@ Architecture;Paris;['239,99'];12+;649;21044
 Star Wars™;Yoda™;['569,99'];10+;1771;75255
 Harry Potter™;Hogwarts™ Express;['429,99'];8-14;801;75955
 Technic;THE BATMAN - BATMOBILE™;['479,99'];10+;1360;42127
-LEGO® Super Mario™;The Team-Up Bundle;['499,98'];10+;750;None
+LEGO® Super Mario™;The Team-Up Bundle;['499,98'];10+;None;5007060
 Classic;Blue Baseplate;['44,99'];4-99;1;10714
 BrickHeadz;Wedding Groom;['59,99', '35,99'];10+;255;40384
 Disney™;Toruk Makto & Tree of Souls;['729,99'];12+;1212;75574
@@ -1247,7 +1247,7 @@ MINDSTORMS®;Robot Inventor;['1699,99'];10+;949;51515
 BrickHeadz;Buzz Lightyear;['44,99'];10+;114;40552
 Classic;Creative Suitcase;['89,99'];4-99;213;10713
 BrickHeadz;Birthday Clown;['44,99'];10+;150;40348
-LEGO® Super Mario™;The Creative Bundle;['579,97'];10+;870;None
+LEGO® Super Mario™;The Creative Bundle;['579,97'];10+;None;5007061
 Classic;LEGO® Creative Bricks;['69,99'];4-99;221;10692
 Monkie Kid™;Monkey King Warrior Mech;['599,99'];10+;1629;80012
 BrickHeadz;Voldemort™, Nagini & Bellatrix;['119,99'];10+;344;40496
@@ -1351,9 +1351,9 @@ Classic;Blue Baseplate;['44,99'];4-99;1;10714
 Star Wars™;The Mandalorian™ Helmet;['279,99'];18+;584;75328
 LEGO® ICONS™;Flower Bouquet;['239,99'];18+;756;10280
 Classic;LEGO® Medium Creative Brick Box;['129,99'];4-99;484;10696
-LEGO® ICONS™;Lion Knights' Castle;['1899,99'];18+;2850;None
+LEGO® ICONS™;Lion Knights' Castle;['1899,99'];18+;None;10305
 Marvel;Sanctum Sanctorum;['1199,99'];18+;2708;76218
-LEGO® ICONS™;Galaxy Explorer;['479,99'];18+;720;None
+LEGO® ICONS™;Galaxy Explorer;['479,99'];18+;1246;10497
 Spider-Man;Venom;['279,99'];18+;565;76187
 Star Wars™;Scout Trooper™ Helmet;['239,99'];18+;471;75305
 Other;Everyone Is Awesome;['159,99'];18+;346;40516

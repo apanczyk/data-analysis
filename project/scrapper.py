@@ -6,13 +6,10 @@ from random import random
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-import urllib.request
 import re
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException, StaleElementReferenceException
-import csv   
+from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 
 class Scrapper:
     url = 'https://www.lego.com'
